@@ -1,4 +1,4 @@
-import { Navbar, Hero, PopularProducts, Services, SpecialOffer, CustomerReviews, Subscribe, Footer, QualityProduct } from './components';
+import { Navbar, Hero, PopularProducts, Services, SpecialOffer, CustomerReviews, Subscribe, Footer, QualityProduct } from './pages';
 
 function App() {
   return (

@@ -11,27 +11,31 @@ export const navLinks = [
 
 export const shoes = [
     {
+        key: 1,
         thumbnail: thumbnailShoe1,
         bigShoe: bigShoe1,
     },
     {
+        key: 2,
         thumbnail: thumbnailShoe2,
         bigShoe: bigShoe2,
     },
     {
+        key: 3,
         thumbnail: thumbnailShoe3,
         bigShoe: bigShoe3,
     },
     {
+        key: 4,
         thumbnail: thumbnailShoe4,
         bigShoe: bigShoe4,
     },
 ];
 
 export const statistics = [
-    { value: '10k+', label: 'Brands' },
-    { value: '800+', label: 'Shops' },
-    { value: '500k+', label: 'Customers' },
+    { key: 1, value: '10k+', label: 'Brands' },
+    { key: 2, value: '800+', label: 'Shops' },
+    { key: 3, value: '500k+', label: 'Customers' },
 ];
 
 export const products = [
